@@ -23,4 +23,4 @@ CRUD completo
 * Lista todos os produtos
 * Lista produto especifico pelo UUID
 * Alterar produto pelo UUID
-* Deletar produtyo pelo UUID
+* Deletar produto pelo UUID
